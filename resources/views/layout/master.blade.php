@@ -1025,7 +1025,7 @@
                     </div>
                     <div class="item">
                         <div class="clints-box">
-                            <img src="/template/images/customer/c17.png" alt="clints" class="img-fluid">
+                            <img src="/template/images/customer/c17.PNG" alt="clints" class="img-fluid">
                         </div>
                     </div>
                     <div class="item">
@@ -1205,7 +1205,7 @@
     <script src="/template/assets/tether/dist/js/tether.min.js"></script>
     <script src="/template/assets/flexslider/jquery.flexslider-min.js"></script>
     <script src="/template/assets/scrollreveal/dist/scrollreveal.min.js"></script>
-    <script src="../../../../cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+    <script src="cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
     <script src="/template/assets/jarallax/dist/jarallax.min.js"></script>
     <script src="/template/assets/jarallax/dist/jarallax-video.min.js"></script>
     <!-- jQuery -->
