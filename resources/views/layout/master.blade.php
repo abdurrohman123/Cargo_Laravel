@@ -204,94 +204,7 @@
 
     <!-- Counter-section  -->
 
-    <section class="counter-section bg-parallax" data-jarallax='{"speed": 0.2}'
-        style="background: url(/template/images/bg-1.jpg) no-repeat center center;">
 
-        <div class="container">
-
-            <div class="row d-none">
-
-                <div class="col-lg-12 scrollReveal sr-bottom sr-ease-in-out-quad sr-delay-1">
-
-                    <h1 class="section-heading">counter</h1>
-
-                    <p>Lorem Ipsum is simply dummy text </p>
-
-                </div>
-
-            </div>
-
-            <div class="row">
-
-                <div class="col-lg-3 col-sm-6 mb-5  col-md-3">
-
-                    <div class="counter  ">
-
-                        <i class="ion-ios-people"></i>
-
-                        <span class="count">1200</span>
-
-                        <label>PROJECTS</label>
-
-                        <p class="text-color">They can’t be wrong</p>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-3 col-sm-6 mb-5  col-md-3 ">
-
-                    <div class="counter ">
-
-                        <i class="ion-ios-people"></i>
-
-                        <span class="count">800</span>
-
-                        <label>TOTAL EMPLOYEES</label>
-
-                        <p class="text-color">They can’t be wrong</p>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-3 col-sm-6 mb-5  col-md-3">
-
-                    <div class="counter ">
-
-                        <i class="ion-ios-people"></i>
-
-                        <span class="count">220</span>
-
-                        <label>OUR OFFICES</label>
-
-                        <p class="text-color">They can’t be wrong</p>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-3 col-sm-6 mb-5  col-md-3">
-
-                    <div class="counter ">
-
-                        <i class="ion-ios-people"></i>
-
-                        <span class="count">3000</span>
-
-                        <label>CLIENTS</label>
-
-                        <p class="text-color">They can’t be wrong</p>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
 
     <!--start services-->
 
@@ -303,9 +216,9 @@
 
                 <div class="col-lg-12  scrollReveal sr-bottom sr-ease-in-out-quad sr-delay-1">
 
-                    <h1 class="section-heading">services</h1>
+                    <h1 class="section-heading">SERVICE</h1>
 
-                    <p>Lorem Ipsum is simply dummy text </p>
+                    {{-- <p>Lorem Ipsum is simply dummy text </p> --}}
 
                 </div>
 
@@ -459,38 +372,11 @@
 
             <div class="height-40"></div>
 
-            <div class="text-center scrollReveal sr-bottom">
-
-                <h1>Want to work with us</h1>
-
-                <a href="#" class="btn btn-dark-border btn-lg">Our Portfolio</a>
-
-            </div>
-
         </div>
 
     </section>
 
     <!--end services-->
-
-    <section class="counter-section bg-parallax" data-jarallax='{"speed": 0.2}'
-        style="background: url(/template/images/bg-2.jpg) no-repeat center center;">
-
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-lg-12  col-sm-12 col-md-12">
-
-                    <h2 class="parallax-text">" A Super Simple Minimal One Page for Creative & Small Agencies "</h2>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
 
     <!-- Team Section -->
 
