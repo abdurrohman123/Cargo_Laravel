@@ -143,60 +143,32 @@
 
     <section id="home" class="slider-banner home_over bg-parallax h-100" data-jarallax='{"speed": 0.2}'
         style="background-image: url(/template/images/bg-4.jpg);">
-
         <div class="main-slider ">
-
             <!--slides end-->
-
             <div class="slider-overlay">
-
                 <div class="slider-table">
-
                     <div class="slider-vm">
-
                         <!-- cd-intro -->
-
                         <div class="cd-intro relative">
-
                             <h1 class="cd-headline clip is-full-width">
-
-
-
                                 <span class="cd-words-wrapper">
-
                                     <b class="is-visible">Welcome to <span> MANDIRI JAYA TRANS</span></b>
-
                                     <b>Trucking <span> Ekpedisi </span></b>
-
                                     <b>Pengiriman <span> Cepat Dan Tepat </span></b>
-
                                 </span>
-
-
-
                             </h1>
-
                             <p>Alamat : Kota Harapan Indah, Ruko Ifolia Blok HY.47 No.8 Kel.Pusaka Rakyat,
-                                Kec.Turumajaya, Kab.Bekasi, Jawa Barat</p>
+                                Kec.Turumajaya, Kab.Bekasi, Jawa Barat.</p>
                             <h6>Info Pelayanan</h6>
                             <a href="#" class="btn btn-lg btn-white-border">Klik Disini</a>
-
                         </div>
-
                         <!-- cd-intro -->
-
                     </div>
-
                 </div>
-
             </div>
-
             <!--slides overlay end-->
-
         </div>
-
         <div class="mouse-down "><a href="#contact" class="page-scroll"><i class="ion-mouse"></i></a></div>
-
     </section>
 
     <!-- content Section -->
@@ -218,7 +190,7 @@
 
                     <h1 class="section-heading">SERVICE</h1>
 
-                    {{-- <p>Lorem Ipsum is simply dummy text </p> --}}
+                    <p>MANDIRI JAYA TRANS </p>
 
                 </div>
 
@@ -390,7 +362,7 @@
 
                     <h1 class="section-heading">GALERI</h1>
 
-                    {{-- <p>Lorem Ipsum is simply dummy text </p> --}}
+                    <p>MANDIRI JAYA TRANS </p>
 
                 </div>
 
@@ -735,7 +707,7 @@
 
                     <h1 class="section-heading">ARMADA</h1>
 
-                    {{-- <p>Lorem Ipsum is simply dummy text </p> --}}
+                    <p>MANDIRI JAYA TRANS </p>
 
                 </div>
 
@@ -959,7 +931,7 @@
 
                     <h1 class="section-heading">CUSTOMER</h1>
 
-                    {{-- <p>Lorem Ipsum is simply dummy text </p> --}}
+                    <p>MANDIRI JAYA TRANS </p>
 
                 </div>
 
@@ -1138,7 +1110,7 @@
             <div class="row no-margin  ">
                 <div class="col-lg-12  text-center ">
                     <h1 class="section-heading">HUBUNGI KAMI </h1>
-                    {{-- <p>Lorem Ipsum is simply dummy text </p> --}}
+                    <p>MANDIRI JAYA TRANS </p>
                 </div>
             </div>
             <div class="height-60"> </div>
@@ -1209,7 +1181,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="f-b">Copyright © 2018 All Rights Reserved.</div>
+                    <div class="f-b">Copyright©2020</div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="footer-widget-social">
