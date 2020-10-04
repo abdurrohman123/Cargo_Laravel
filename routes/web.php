@@ -23,7 +23,7 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/', function () {
-    return view('layout/master_profile');
+    return view('home');
 });
 
 Route::get('home', [HomeController::class, 'index']);

@@ -11,7 +11,7 @@
 
                     <h1 class="section-heading">SERVICE</h1>
 
-                    <p>MANDIRI JAYA TRANS </p>
+                    <h2>Pergudangan, Pengangkutan dan Pengiriman Barang</h2>
 
                 </div>
 
@@ -31,13 +31,13 @@
 
                             <div class="content">
 
-                                <h4>Marketing</h4>
+                                <h4>Kargo</h4>
 
-                                <p>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum
-                                    has been the industry.
-
+                                <p> 
+                                   Mandiri Jaya Trans siap menyediakan berbagai macam armada sesuai kebutuhan anda. 
+                                    Kami memiliki driver yang berpengalaman. Dengan konsep Sistem Logistik terintegrasi, 
+                                    kami memberikan pelayanan kepada Anda secara tuntas dan profesional. 
+                                   
                                 </p>
 
                             </div>
@@ -52,12 +52,10 @@
 
                             <div class="content">
 
-                                <h4>Web Design</h4>
+                                <h4>Transportasi</h4>
 
                                 <p>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum
-                                    has been the industry.
+                           
 
                                 </p>
 
@@ -73,12 +71,12 @@
 
                             <div class="content">
 
-                                <h4>E-commerce</h4>
+                                <h4>Penyewaan Gudang</h4>
 
                                 <p>
 
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum
-                                    has been the industry.
+                                    Fasilitas gudang Mandiri Jaya Trans merupakan kualitas gudang premium. 
+                                    Sewa gudang dan jasa pengiriman dari Mandiri Jaya Trans dapat disesuaikan dengan kebutuhan anda.                           
 
                                 </p>
 
@@ -94,12 +92,11 @@
 
                             <div class="content">
 
-                                <h4>Web Development</h4>
+                                <h4>Reparasi Perawatan Mobil dan Sepeda Motor</h4>
 
                                 <p>
 
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum
-                                    has been the industry.
+                             
 
                                 </p>
 
@@ -108,49 +105,6 @@
                         </li>
 
                         <!--service col end with li-->
-
-                        <li class="col-sm-6  clearfix scrollReveal sr-bottom sr-delay-4">
-
-                            <i class="ion-ios-people-outline"></i>
-
-                            <div class="content">
-
-                                <h4>Free Support</h4>
-
-                                <p>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum
-                                    has been the industry.
-
-                                </p>
-
-                            </div>
-
-                        </li>
-
-                        <!--service col end with li-->
-
-                        <li class="col-sm-6  clearfix scrollReveal sr-bottom sr-delay-5">
-
-                            <i class="ion-iphone"></i>
-
-                            <div class="content">
-
-                                <h4>App Development</h4>
-
-                                <p>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum
-                                    has been the industry.
-
-                                </p>
-
-                            </div>
-
-                        </li>
-
-                        <!--service col end with li-->
-
                     </ul>
 
                     <!--service list end-->
@@ -988,7 +942,8 @@
     {{-- MAPS --}}
    
     <div class="height-60"> </div>
-    <div id="show_maps"  style="width:100%;height:50%;"></div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d32496307.688807808!2d89.05624660000001!3d-6.1529232999999985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698a3faceb1f89%3A0x6df85824afedb98f!2sIndomaret%20office%20Ifolia!5e0!3m2!1sen!2s!4v1601821987659!5m2!1sen!2s" 
+    width="100%" height="50%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
     <div class="footer-bottom">
         <div class="container">
@@ -1015,14 +970,6 @@
     </a>
 
 {{-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script> --}}
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSvdHd4CbXoYLg6WhrooAbAc_DOIaJgP8&callback=initMap" async defer></script>
-    <script type="text/javascript">
-        function initMap() {
-          var map = new google.maps.Map(document.getElementById('show_maps'), {
-            center: {lat: -7.1026, lng: 107.6616},
-            zoom: 5
-          });
-        }
-  </script>
+
 
     @endsection
