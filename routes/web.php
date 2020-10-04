@@ -1,5 +1,10 @@
 <?php
 
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\LatarbelakangController;
+use App\Http\Controllers\LegalitasController;
+use App\Http\Controllers\MisiController;
+use App\Http\Controllers\VisiController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -18,5 +23,11 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/', function () {
-    return view('layout/master');
+    return view('layout/master_profile');
 });
+
+Route::get('home', [HomeController::class, 'index']);
+Route::get('latarbelakang', [LatarbelakangController::class, 'index']);
+Route::get('visi', [VisiController::class, 'index']);
+Route::get('misi', [MisiController::class, 'index']);
+Route::get('legalitas', [LegalitasController::class, 'index']);
