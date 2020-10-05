@@ -29,10 +29,9 @@
 
         <hr>
 
-        <div class="height-40"></div>
-
     </div>
 
 </section>
+
 
 @endsection

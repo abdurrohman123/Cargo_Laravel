@@ -24,6 +24,9 @@
     <link rel="stylesheet" href="/template/assets/owl-carousel/owl.carousel.css">
     <!-- Default Theme -->
     <link rel="stylesheet" href="/template/assets/owl-carousel/owl.theme.css">
+
+    <link href="/template/css/customer.css" rel="stylesheet">
+
 </head>
 
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
@@ -166,6 +169,9 @@
     <script src="/template/assets/owl-carousel/owl.carousel.js"></script>
     <!--custom js-->
     <script src="/template/js/custom.js"></script>
+
+    <script src="/template/js/customer.js"></script>
+
 </body>
 
 
