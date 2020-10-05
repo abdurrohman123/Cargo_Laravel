@@ -24,8 +24,7 @@
     <link rel="stylesheet" href="/template/assets/owl-carousel/owl.carousel.css">
     <!-- Default Theme -->
     <link rel="stylesheet" href="/template/assets/owl-carousel/owl.theme.css">
-    <link href="/template/css/customer.css" rel="stylesheet">
-    <link href="/template/css/customer1.css" rel="stylesheet">
+
 
 </head>
 
@@ -45,8 +44,8 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <ul class="list-inline list-unstyled">
-                            <li class="list-inline-item"><a href="#" class="pl-0"><i class="ion-ios-telephone"></i> +91
-                                    7615749353 </a></li>
+                            <li class="list-inline-item"><a href="#" class="pl-0"><i class="ion-ios-telephone"></i>
+                                +6282298589400 </a></li>
                             <li class="list-inline-item"><a href="#"><i class="ion-ios-email"></i> mjt@kargoin.com</a>
                             </li>
                         </ul>
@@ -121,7 +120,7 @@
     <!--slider start-->
 
     <section id="home" class="slider-banner home_over bg-parallax h-100" data-jarallax='{"speed": 0.2}'
-        style="background-image: url(/template/images/bg-4.jpg);">
+        style="background-image: url(/template/images/bg-5.jpg);">
         <div class="main-slider ">
             <!--slides end-->
             <div class="slider-overlay">
@@ -131,15 +130,15 @@
                         <div class="cd-intro relative">
                             <h1 class="cd-headline clip is-full-width">
                                 <span class="cd-words-wrapper">
-                                    <b class="is-visible">Welcome to <span> MANDIRI JAYA TRANS</span></b>
-                                    <b>Trucking <span> Ekpedisi </span></b>
+                                    <b class="is-visible">MANDIRI <span>  JAYA TRANS</span></b>
+                                    <b>Trucking <span> Ekspedisi </span></b>
                                     <b>Pengiriman <span> Cepat Dan Tepat </span></b>
                                 </span>
                             </h1>
                             <p>Alamat : Kota Harapan Indah, Ruko Ifolia Blok HY.47 No.8 Kel.Pusaka Rakyat,
                                 Kec.Turumajaya, Kab.Bekasi, Jawa Barat.</p>
                             <h6>Info Pelayanan</h6>
-                            <a href="https://api.whatsapp.com/send?phone=6289665435263" class="btn btn-lg btn-white-border">Klik Disini</a>
+                            <a href="https://api.whatsapp.com/send?phone=6282298589400" class="btn btn-lg btn-white-border">Klik Disini</a>
                         </div>
                         <!-- cd-intro -->
                     </div>
@@ -181,8 +180,7 @@
     <!--custom js-->
     <script src="/template/js/custom.js"></script>
 
-    <script src="/template/js/customer.js"></script>
-    <script src="/template/js/customer1.js"></script>
+
 
 
 </body>

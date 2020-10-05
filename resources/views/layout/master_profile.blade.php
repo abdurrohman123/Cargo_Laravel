@@ -25,7 +25,6 @@
     <!-- Default Theme -->
     <link rel="stylesheet" href="/template/assets/owl-carousel/owl.theme.css">
 
-    <link href="/template/css/customer.css" rel="stylesheet">
 
 </head>
 
@@ -45,8 +44,8 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <ul class="list-inline list-unstyled">
-                            <li class="list-inline-item"><a href="#" class="pl-0"><i class="ion-ios-telephone"></i> +91
-                                    7615749353 </a></li>
+                            <li class="list-inline-item"><a href="#" class="pl-0"><i class="ion-ios-telephone"></i>
+                                +6282298589400 </a></li>
                             <li class="list-inline-item"><a href="#"><i class="ion-ios-email"></i> mjt@kargoin.com</a>
                             </li>
                         </ul>
@@ -170,7 +169,6 @@
     <!--custom js-->
     <script src="/template/js/custom.js"></script>
 
-    <script src="/template/js/customer.js"></script>
 
 </body>
 

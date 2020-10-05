@@ -16,7 +16,7 @@
 
 
                 <p>
-                   Menjalankan Usaha Pelayanan Ekpedisi Dibidang Pengiriman Secara Profesional
+                   Menjalankan Usaha Pelayanan Ekspedisi Dibidang Pengiriman Secara Profesional
                    Dan Selalu Mengerti Apa Yang Terbaik Bagi Customer.
                  </p>
              

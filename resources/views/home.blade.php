@@ -27,7 +27,7 @@
 
                     <li class="col-sm-6  clearfix scrollReveal sr-bottom">
 
-                        <i class="ion-ios-briefcase-outline"></i>
+                        <i class="fa fa-truck"></i>
 
                         <div class="content">
 
@@ -48,7 +48,7 @@
 
                     <li class="col-sm-6  clearfix  scrollReveal sr-bottom sr-delay-1">
 
-                        <i class="ion-images"></i>
+                        <i class="fa fa-bus"></i>
 
                         <div class="content">
 
@@ -67,7 +67,7 @@
 
                     <li class="col-sm-6  clearfix scrollReveal sr-bottom sr-delay-2">
 
-                        <i class="ion-bag"></i>
+                        <i class="fa fa-building"></i>
 
                         <div class="content">
 
@@ -89,7 +89,7 @@
 
                     <li class="col-sm-6  clearfix scrollReveal sr-bottom sr-delay-3">
 
-                        <i class="ion-hammer"></i>
+                        <i class="fa fa-wrench"></i>
 
                         <div class="content">
 
@@ -163,7 +163,7 @@
                     </div>
                     <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-4">
                         <div class="team">
-                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri1.jpg)">
+                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri4.jpg)">
                             </div>
                         </div>
                     </div>
@@ -174,25 +174,25 @@
                     <div class="height-40"> </div>
                     <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                         <div class="team">
-                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri1.jpg)">
+                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri5.jpg)">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-2">
                         <div class="team">
-                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri2.jpg)">
+                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri6.jpg)">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-3">
                         <div class="team">
-                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri3.jpg)">
+                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri7.jpg)">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-4">
                         <div class="team">
-                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri1.jpg)">
+                            <div class="team-img" style="background-image:url(/template/images/galeri/galeri8.jpg)">
                             </div>
                         </div>
                     </div>
@@ -228,22 +228,22 @@
                             <div class="row">
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada1.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada2.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada3.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada4.png" alt="work">
                                     </div>
                                 </div>
                             </div>
@@ -253,22 +253,22 @@
                             <div class="row">
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada5.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada6.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada7.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada8.png" alt="work">
                                     </div>
                                 </div>
                             </div>
@@ -277,22 +277,22 @@
                             <div class="row">
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada9.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada10.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada11.png" alt="work">
                                     </div>
                                 </div>
                                 <div class="col-lg-3  col-sm-6 mb-3 ol-md-3 scrollReveal sr-bottom sr-delay-1">
                                     <div class="work-wrapper">
-                                        <img src="/template/images/galeri/galeri3.jpg" alt="work">
+                                        <img src="/template/images/armada/armada12.png" alt="work">
                                     </div>
                                 </div>
                             </div>
@@ -305,16 +305,13 @@
 
 </section>
 
-{{-- CUSTOMER 1 --}}
-<section id="clients" class="clints-section">
+<section id="clients" class="clients-section all-space">
 
-    <div class="height-60"> </div>
-
-    <div class="container">
+    <div class="container-fluid no-padding">
 
         <div class="row no-margin">
 
-            <div class="col-lg-12  text-center">
+            <div class="col-lg-12  scrollReveal sr-bottom sr-ease-in-out-quad sr-delay-1">
 
                 <h1 class="section-heading">CUSTOMER</h1>
 
@@ -322,318 +319,60 @@
 
             </div>
 
+            <div class="height-40"> </div>
+
         </div>
 
-        <div class="height-60"> </div>
-        <div class="clints-block">
-            <div id="owl-clients" class="owl-no-pagination ">
+        <div class="height-50"> </div>
+   
+            <div class="row">
+                <div class="height-10"> </div>
+            
+                            <div class="customer-wrapper col-lg-12  col-sm-6 mb-3 ol-md-3 scrollReveal">
+                               
+                                        <img src="/template/images/customer/c1.png" alt="customer">
+                                        <img src="/template/images/customer/c2.jpg" alt="customer">
+                                        <img src="/template/images/customer/c3.jpg" alt="customer">
+                                        <img src="/template/images/customer/c4.jpg" alt="customer">
+                                        <img src="/template/images/customer/c5.jpg" alt="customer">
 
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c1.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c2.jpg" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c3.jpg" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c4.jpg" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c5.jpg" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c6.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c7.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c8.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
+                                        <img src="/template/images/customer/c6.png" alt="customer">
+                                        <img src="/template/images/customer/c7.png" alt="customer">
+                                        <img src="/template/images/customer/c8.png" alt="customer">
+                                        <img src="/template/images/customer/c9.png" alt="customer">
+                                        <img src="/template/images/customer/c10.jpg" alt="customer">
 
-                        <img src="/template/images/customer/c9.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c10.jpg" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c11.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c12.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c13.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
+                                        <img src="/template/images/customer/c11.png" alt="customer">
+                                        <img src="/template/images/customer/c12.png" alt="customer">
+                                        <img src="/template/images/customer/c13.png" alt="customer">
+                                        <img src="/template/images/customer/c14.png" alt="customer">
+                                        <img src="/template/images/customer/c15.png" alt="customer">
 
-                        <img src="/template/images/customer/c14.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c15.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c16.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c17.PNG" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c18.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c19.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c20.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c21.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c22.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c23.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c24.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c25.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c26.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c27.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c28.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c29.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c30.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="clints-box">
-                        <img src="/template/images/customer/c31.png" alt="clints" class="img-fluid">
-                    </div>
-                </div>
+                                        <img src="/template/images/customer/c16.png" alt="customer">
+                                        <img src="/template/images/customer/c17.png" alt="customer">
+                                        <img src="/template/images/customer/c18.png" alt="customer">
+                                        <img src="/template/images/customer/c19.png" alt="customer">
+                                        <img src="/template/images/customer/c20.png" alt="customer">
+
+                                        <img src="/template/images/customer/c21.png" alt="customer">
+                                        <img src="/template/images/customer/c22.png" alt="customer">
+                                        <img src="/template/images/customer/c23.png" alt="customer">
+                                        <img src="/template/images/customer/c24.png" alt="customer">
+                                        <img src="/template/images/customer/c25.png" alt="customer">
+
+                                        <img src="/template/images/customer/c26.png" alt="customer">
+                                        <img src="/template/images/customer/c27.png" alt="customer">
+                                        <img src="/template/images/customer/c28.png" alt="customer">
+                                        <img src="/template/images/customer/c29.png" alt="customer">
+                                        <img src="/template/images/customer/c30.png" alt="customer">
+
+                                        <img src="/template/images/customer/c31.png" alt="customer">
+                            </div>
+                
             </div>
-        </div>
+
     </div>
 
-
-    {{-- CUSTOMER 2 --}}
-
-    <div id="customer" class="customer-section">
-        <div class="container">
-            <div class="clints-block">
-                <div id="owl-customer" class="owl-no-pagination ">
-
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c9.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c10.jpg" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c11.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c12.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c13.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c14.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c15.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c16.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-
-                            <img src="/template/images/customer/c17.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c18.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c19.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer-box">
-                            <img src="/template/images/customer/c20.png" alt="customer" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="customer1" class="customer1-section">
-        <div class="container">
-            <div class="clints-block">
-                <div id="owl-customer1" class="owl-no-pagination ">
-
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/C31.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c30.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c29.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/C28.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c27.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c26.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c25.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c24.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-
-                            <img src="/template/images/customer/c23.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c22.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c21.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="customer1-box">
-                            <img src="/template/images/customer/c20.png" alt="customer1" class="img-fluid">
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
 </section>
 
 <!-- contact Section -->
@@ -660,7 +399,7 @@
                             <br>mandirijaya_trans@kargoin.com</p>
                     </div>
                     <div class="col-md-12 contact   "> <i class="fa fa-phone fa-2x"></i>
-                        <p class="dark">021-3212-0021</p>
+                        <p class="dark">+6282298589400</p>
                         <br>
                         <br>
                     </div>
@@ -673,14 +412,14 @@
 
                     <div class="col-md-12 contact ">
                         <P style="text-align: center;"><strong>Layanan CS-1</strong><br>
-                            <a href="https://api.whatsapp.com/send?phone=6289665435263">
+                            <a href="https://api.whatsapp.com/send?phone=6282298589400">
                                 <img src="/template/images/WA.png">
                             </a>
 
                     </div>
                     <div class="col-md-12 contact ">
                         <P style="text-align: center;"><strong>Layanan CS-2</strong><br>
-                            <a href="https://api.whatsapp.com/send?phone=6289665435263">
+                            <a href="https://api.whatsapp.com/send?phone=6285321703212">
                                 <img src="/template/images/WA.png">
                             </a>
 
@@ -688,24 +427,6 @@
                 </div>
                 <div class="clearfix"></div>
             </div>
-            {{-- <div class="col-md-6 col-sm-6 ">
-                    <div class="row">
-                        <a href="https://api.whatsapp.com/send?phone=6289665435263">
-                        <img src="/template/images/WA.png"> 
-                        </a>
-                    </div>
-                    <div class="row">
-                        <a href="https://api.whatsapp.com/send?phone=6289665435263">
-                        <img src="/template/images/WA.png"> 
-                        </a>
-                    </div>
-                    <div class="row">
-                        <a href="https://api.whatsapp.com/send?phone=6289665435263">
-                        <img src="/template/images/WA.png"> 
-                        </a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div> --}}
         </div>
 </section>
 
@@ -714,11 +435,8 @@
 {{-- MAPS --}}
 
 <div class="height-60"> </div>
-<iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d32496307.688807808!2d89.05624660000001!3d-6.1529232999999985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698a3faceb1f89%3A0x6df85824afedb98f!2sIndomaret%20office%20Ifolia!5e0!3m2!1sen!2s!4v1601821987659!5m2!1sen!2s"
-    width="100%" height="50%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
-    tabindex="0"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15867.263949701384!2d106.9874164!3d-6.1553944!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x93d06bd2e1c733ad!2sCv%20Mandiri%20Jaya%20Trans!5e0!3m2!1sid!2s!4v1601893870197!5m2!1sid!2s" 
+width="100%" height="60%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <div class="footer-bottom">
     <div class="container">
         <div class="row">

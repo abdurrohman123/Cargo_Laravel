@@ -1,30 +1,11 @@
-
-/* ====================================================================================================================
- * clints-section
- * ====================================================================================================================*/
-
- .customer-sectionn {
-    background-color: #f1f1f1;
-    padding-bottom: 60px;
-}
-
-.customer-box {
-    padding: 2px 2px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    margin: 0 15px;
-    background-color: #333;
-}
-
-.owl-no-pagination .owl-pagination {
-    display: none;
-}
-
-.owl-carousel .owl-item {
-    float: right;
-    cursor: url("../images/icon-move-ligh.png"), move;
-}
-
-#owl-clients .owl-buttons {
-    display: none;
+.customer-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 100%;
 }

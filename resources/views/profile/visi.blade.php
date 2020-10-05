@@ -16,7 +16,7 @@
 
 
                 <p>
-                    Menjadikan Sebagai Perusahaan Jasa Epedisi Yang Kompetitif,
+                    Menjadikan Sebagai Perusahaan Jasa Ekspedisi Yang Kompetitif,
                     Mengerti Kebutuhan Customer Dan Memberikan Solusi Secara Cepat Dan Tepat.
                  </p>
              
