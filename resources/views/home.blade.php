@@ -55,7 +55,8 @@
                             <h4>Transportasi</h4>
 
                             <p>
-
+                               Mandiri Jaya Trans menyiapkan sejumlah armada kendaraan untuk kegiatan operasionalnya dengan porsi yang besar.
+                              dengan jasa penyewaan kendaraan untuk pariwisata, korporasi, transportasi logistik, serta layanan pengemudi – hadir untuk membantu Customer.
 
                             </p>
 
@@ -97,7 +98,8 @@
 
                             <p>
 
-
+                                Saat memiliki kendaraan bermotor/mobil, tentu harus memperhatikan perawatannya. agar kendaraan aman dan nyaman digunakan.
+                                Mandiri Jaya Trans Menyediakan Reparasi, Perawatan Kendaraan Mobil Dan Sepeda Motor Dengan Hasil yang terbaik.
 
                             </p>
 
@@ -324,52 +326,53 @@
         </div>
 
         <div class="height-50"> </div>
-   
-            <div class="row">
+        <div class="row">
+             <div class="container">
                 <div class="height-10"> </div>
-            
-                            <div class="customer-wrapper col-lg-12  col-sm-6 mb-3 ol-md-3 scrollReveal">
-                               
-                                        <img src="/template/images/customer/c1.png" alt="customer">
-                                        <img src="/template/images/customer/c2.jpg" alt="customer">
-                                        <img src="/template/images/customer/c3.jpg" alt="customer">
-                                        <img src="/template/images/customer/c4.jpg" alt="customer">
-                                        <img src="/template/images/customer/c5.jpg" alt="customer">
 
-                                        <img src="/template/images/customer/c6.png" alt="customer">
-                                        <img src="/template/images/customer/c7.png" alt="customer">
-                                        <img src="/template/images/customer/c8.png" alt="customer">
-                                        <img src="/template/images/customer/c9.png" alt="customer">
-                                        <img src="/template/images/customer/c10.jpg" alt="customer">
+                <div class="customer-wrapper col-lg-12  col-sm-12 mb-12 ol-md-12 scrollReveal">
 
-                                        <img src="/template/images/customer/c11.png" alt="customer">
-                                        <img src="/template/images/customer/c12.png" alt="customer">
-                                        <img src="/template/images/customer/c13.png" alt="customer">
-                                        <img src="/template/images/customer/c14.png" alt="customer">
-                                        <img src="/template/images/customer/c15.png" alt="customer">
+                    <img src="/template/images/customer/c1.png" alt="customer">
+                    <img src="/template/images/customer/c2.jpg" alt="customer">
+                    <img src="/template/images/customer/c3.jpg" alt="customer">
+                    <img src="/template/images/customer/c4.jpg" alt="customer">
+                    <img src="/template/images/customer/c5.jpg" alt="customer">
 
-                                        <img src="/template/images/customer/c16.png" alt="customer">
-                                        <img src="/template/images/customer/c17.png" alt="customer">
-                                        <img src="/template/images/customer/c18.png" alt="customer">
-                                        <img src="/template/images/customer/c19.png" alt="customer">
-                                        <img src="/template/images/customer/c20.png" alt="customer">
+                    <img src="/template/images/customer/c6.png" alt="customer">
+                    <img src="/template/images/customer/c7.png" alt="customer">
+                    <img src="/template/images/customer/c8.png" alt="customer">
+                    <img src="/template/images/customer/c9.png" alt="customer">
+                    <img src="/template/images/customer/c10.jpg" alt="customer">
 
-                                        <img src="/template/images/customer/c21.png" alt="customer">
-                                        <img src="/template/images/customer/c22.png" alt="customer">
-                                        <img src="/template/images/customer/c23.png" alt="customer">
-                                        <img src="/template/images/customer/c24.png" alt="customer">
-                                        <img src="/template/images/customer/c25.png" alt="customer">
+                    <img src="/template/images/customer/c11.png" alt="customer">
+                    <img src="/template/images/customer/c12.png" alt="customer">
+                    <img src="/template/images/customer/c13.png" alt="customer">
+                    <img src="/template/images/customer/c14.png" alt="customer">
+                    <img src="/template/images/customer/c15.png" alt="customer">
 
-                                        <img src="/template/images/customer/c26.png" alt="customer">
-                                        <img src="/template/images/customer/c27.png" alt="customer">
-                                        <img src="/template/images/customer/c28.png" alt="customer">
-                                        <img src="/template/images/customer/c29.png" alt="customer">
-                                        <img src="/template/images/customer/c30.png" alt="customer">
+                    <img src="/template/images/customer/c16.png" alt="customer">
+                    <img src="/template/images/customer/c17.png" alt="customer">
+                    <img src="/template/images/customer/c18.png" alt="customer">
+                    <img src="/template/images/customer/c19.png" alt="customer">
+                    <img src="/template/images/customer/c20.png" alt="customer">
 
-                                        <img src="/template/images/customer/c31.png" alt="customer">
-                            </div>
-                
+                    <img src="/template/images/customer/c21.png" alt="customer">
+                    <img src="/template/images/customer/c22.png" alt="customer">
+                    <img src="/template/images/customer/c23.png" alt="customer">
+                    <img src="/template/images/customer/c24.png" alt="customer">
+                    <img src="/template/images/customer/c25.png" alt="customer">
+
+                    <img src="/template/images/customer/c26.png" alt="customer">
+                    <img src="/template/images/customer/c27.png" alt="customer">
+                    <img src="/template/images/customer/c28.png" alt="customer">
+                    <img src="/template/images/customer/c29.png" alt="customer">
+                    <img src="/template/images/customer/c30.png" alt="customer">
+
+                    <img src="/template/images/customer/c31.png" alt="customer">
+                </div>
+
             </div>
+        </div>
 
     </div>
 
@@ -395,8 +398,8 @@
                         </p>
                     </div>
                     <div class="col-md-12 contact  "> <i class="fa fa-envelope-o fa-2x"></i>
-                        <p class="dark">mjt@kargoin.com
-                            <br>mandirijaya_trans@kargoin.com</p>
+                        <p class="dark">mjt.kargoin@gmail.com
+                            <br>mjt.kargoin@gmail.com</p>
                     </div>
                     <div class="col-md-12 contact   "> <i class="fa fa-phone fa-2x"></i>
                         <p class="dark">+6282298589400</p>
@@ -435,8 +438,10 @@
 {{-- MAPS --}}
 
 <div class="height-60"> </div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15867.263949701384!2d106.9874164!3d-6.1553944!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x93d06bd2e1c733ad!2sCv%20Mandiri%20Jaya%20Trans!5e0!3m2!1sid!2s!4v1601893870197!5m2!1sid!2s" 
-width="100%" height="60%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.816360044852!2d106.98526861476878!3d-6.155344495543467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMDknMTkuMiJTIDEwNsKwNTknMTQuOSJF!5e0!3m2!1sid!2sus!4v1601965581620!5m2!1sid!2sus"
+    width="100%" height="60%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+    tabindex="0"></iframe>
 <div class="footer-bottom">
     <div class="container">
         <div class="row">

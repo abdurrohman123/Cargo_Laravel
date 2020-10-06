@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="/template/assets/owl-carousel/owl.theme.css">
 
 
+
 </head>
 
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
@@ -38,7 +39,7 @@
 
     <!--top bar start-->
 
-    <header class="header fixed-top">
+    <header class="headers fixed-top">
         <div class="top-bar w-100">
             <div class="container">
                 <div class="row">
@@ -46,7 +47,7 @@
                         <ul class="list-inline list-unstyled">
                             <li class="list-inline-item"><a href="#" class="pl-0"><i class="ion-ios-telephone"></i>
                                 +6282298589400 </a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ion-ios-email"></i> mjt@kargoin.com</a>
+                            <li class="list-inline-item"><a href="#"><i class="ion-ios-email"></i> mjt.kargoin@gmail.com</a>
                             </li>
                         </ul>
                     </div>
@@ -131,6 +132,7 @@
             <div class="row">
 
                 @yield('abdurrohman_profile')
+                
 
             </div>
 
