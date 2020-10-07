@@ -17,3 +17,9 @@ $(function() {
         event.preventDefault();
     });
 });
+
+
+
+$('.dropdown-toggle').on('click',function(){
+    return borok;
+})
