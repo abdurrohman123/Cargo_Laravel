@@ -171,7 +171,7 @@
     <script src="/template/assets/bootstrap/dist/js/bootstrap.min.js"></script>
     <!-- Scrolling Nav JavaScript -->
     <script src="/template/js/jquery.easing.min.js"></script>
-    <script src="/template/js/scrolling-nav.js"></script>
+    <script src="/template/js/scrolling-nav.js?v=2"></script>
     <script src="/template/js/main.js"></script>
     <!--valid / working contact form js-->
     <script src="/template/mail/contact_me.js"></script>
