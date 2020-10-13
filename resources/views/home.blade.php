@@ -94,12 +94,12 @@
 
                         <div class="content">
 
-                            <h4>Reparasi Perawatan Mobil dan Sepeda Motor</h4>
+                            <h4>Reparasi Perawatan Mobil</h4>
 
                             <p>
 
-                                Saat memiliki kendaraan bermotor/mobil, tentu harus memperhatikan perawatannya. agar kendaraan aman dan nyaman digunakan.
-                                Mandiri Jaya Trans Menyediakan Reparasi, Perawatan Kendaraan Mobil Dan Sepeda Motor Dengan Hasil yang terbaik.
+                                Saat memiliki kendaraan mobil, tentu harus memperhatikan perawatannya. agar kendaraan aman dan nyaman digunakan.
+                                Mandiri Jaya Trans Menyediakan Reparasi, Perawatan Kendaraan Mobil Dengan Hasil yang terbaik.
 
                             </p>
 
@@ -402,9 +402,9 @@
                             <br>mjt.kargoin@gmail.com</p>
                     </div>
                     <div class="col-md-12 contact   "> <i class="fa fa-phone fa-2x"></i>
-                        <p class="dark">+6282298589400</p>
+                        <p class="dark">+6282298589400
                         <br>
-                        <br>
+                        +6287875676614</p>
                     </div>
                 </div>
                 <div class="clearfix"></div>
@@ -422,7 +422,7 @@
                     </div>
                     <div class="col-md-12 contact ">
                         <P style="text-align: center;"><strong>Layanan CS-2</strong><br>
-                            <a href="https://api.whatsapp.com/send?phone=6285321703212">
+                            <a href="https://api.whatsapp.com/send?phone=6287875676614">
                                 <img src="/template/images/WA.png">
                             </a>
 
