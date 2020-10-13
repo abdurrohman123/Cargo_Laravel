@@ -446,7 +446,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6">
-                <div class="f-b">Copyright©2020</div>
+                <div class="f-b">Hybrings©2020</div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="footer-widget-social">
