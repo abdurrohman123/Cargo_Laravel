@@ -9,9 +9,20 @@
 
             <div class="col-lg-12  scrollReveal sr-bottom sr-ease-in-out-quad sr-delay-1">
 
-                <h1 class="section-heading">SERVICE</h1>
+                <h1 class="section-heading">TRACKING SERVICE</h1>
+                <P>MANDIRI JAYA TRANS</p>
 
-                <h2>Pergudangan, Pengangkutan dan Pengiriman Barang</h2>
+                <P>Jenis barang yang kami layani untuk rute pengiriman Ekspedisi adalah barang paket seperti pada umumnya. 
+                    Kami tidak menerima barang berbahaya mudah terbakar. Berikut jenis barang yang dapat kami layani :
+                    Elektronik
+                    Farmasi Obat-obatan
+                    Alat Kesehatan
+                    Pakaian Kemasan dalam bentuk Dus dan Bal
+                    Makanan dan Minuman Kemasan
+                    Sparepart, Mesin, Genset.
+                    Barang Pindahan Kantor & Rumah
+                    Furniture
+                    Kendaraan bermotor (Motor dan Mobil).</P>
 
             </div>
 
@@ -31,12 +42,16 @@
 
                         <div class="content">
 
-                            <h4>Kargo</h4>
+                            <h4>JENIS ARMADA</h4>
 
                             <p>
-                                Mandiri Jaya Trans siap menyediakan berbagai macam armada sesuai kebutuhan anda.
-                                Kami memiliki driver yang berpengalaman. Dengan konsep Sistem Logistik terintegrasi,
-                                kami memberikan pelayanan kepada Anda secara tuntas dan profesional.
+                                Untuk kelancaran pengirman barang sampai ke lokasi tujuan, kami memiliki jenis armada sebagai berikut :
+                                Pickup Kap : 3-4 Kubik/1 Ton.
+                                Engkel 4 Roda Kap : 8 Kubik/2 Ton
+                                CDD Standard Kap : 15 Kubik/4 Ton
+                                CDD Long Kap : 22 Kubik/4 Ton
+                                Fuso/Ranger Engkel Kap : 40 Kubik/8 Ton
+                                Tronton Kap : 60 Kubik/15 Ton
 
                             </p>
 
@@ -48,15 +63,15 @@
 
                     <li class="col-sm-6  clearfix  scrollReveal sr-bottom sr-delay-1">
 
-                        <i class="fa fa-bus"></i>
+                        <i class="fa fa-building"></i>
 
                         <div class="content">
 
-                            <h4>Transportasi</h4>
+                            <h4>ASURANSI PENGIRIMAN</h4>
 
                             <p>
-                               Mandiri Jaya Trans menyiapkan sejumlah armada kendaraan untuk kegiatan operasionalnya dengan porsi yang besar.
-                              dengan jasa penyewaan kendaraan untuk pariwisata, korporasi, transportasi logistik, serta layanan pengemudi – hadir untuk membantu Customer.
+                                Customer atau pemilik barang dalam hal ini mengasuransikan barang kiriman. Namun bagi customer yang menyerahkan pengasuransian barang ke pihak ekspedisi, kami dapat membantu dengan perhitungan premi 0.25% x harga barang. 
+                                Adapun barang yang tidak dapat claim asuransi dalam hal ini meliputi barang pecah belah dan barang berbahaya.
 
                             </p>
 
@@ -68,17 +83,18 @@
 
                     <li class="col-sm-6  clearfix scrollReveal sr-bottom sr-delay-2">
 
-                        <i class="fa fa-building"></i>
+                        <i class="fa  fa-suitcase"></i>
 
                         <div class="content">
 
-                            <h4>Penyewaan Gudang</h4>
+                            <h4>SISTEM PEMBAYARAN</h4>
 
-                            <p>
-
-                                Fasilitas gudang Mandiri Jaya Trans merupakan kualitas gudang premium.
-                                Sewa gudang dan jasa pengiriman dari Mandiri Jaya Trans dapat disesuaikan dengan
-                                kebutuhan anda.
+                            <p>Jika anda masih bingung untuk kirim barang ke pihak ekspedisi,  kami akan memberi tips – tips tentang pengiriman barang yang baik dan aman.
+                                Cek kondisi barang anda sebelum anda kirim.
+                                Packing barang mudah pecah, seperti elektronik, motor, mesin, furnitrue, Dll.
+                                cantumkan alamat tujuan dengan jelas sebelum mengirimkan barang.
+                                Gunakan ansurasi barang kiriman anda.
+                                pilihlah jasa ekspedisi sesuai kebutuhan Anda.
 
                             </p>
 
@@ -90,16 +106,19 @@
 
                     <li class="col-sm-6  clearfix scrollReveal sr-bottom sr-delay-3">
 
-                        <i class="fa fa-wrench"></i>
+                        <i class="fa fa-info"></i>
 
                         <div class="content">
 
-                            <h4>Reparasi Perawatan Mobil</h4>
+                            <h4>TIPS AMAN PENGIRIMAN BARANG</h4>
 
                             <p>
-
-                                Saat memiliki kendaraan mobil, tentu harus memperhatikan perawatannya. agar kendaraan aman dan nyaman digunakan.
-                                Mandiri Jaya Trans Menyediakan Reparasi, Perawatan Kendaraan Mobil Dengan Hasil yang terbaik.
+                                Jika anda masih bingung untuk kirim barang ke pihak ekspedisi,  kami akan memberi tips – tips tentang pengiriman barang yang baik dan aman.
+                                Cek kondisi barang anda sebelum anda kirim.
+                                Packing barang mudah pecah, seperti elektronik, motor, mesin, furnitrue, Dll.
+                                cantumkan alamat tujuan dengan jelas sebelum mengirimkan barang.
+                                Gunakan ansurasi barang kiriman anda.
+                                pilihlah jasa ekspedisi sesuai kebutuhan anda .
 
                             </p>
 
@@ -351,7 +370,7 @@
                     <img src="/template/images/customer/c15.png" alt="customer">
 
                     <img src="/template/images/customer/c16.png" alt="customer">
-                    <img src="/template/images/customer/c17.png" alt="customer">
+                    {{-- <img src="/template/images/customer/c17.png" alt="customer"> --}}
                     <img src="/template/images/customer/c18.png" alt="customer">
                     <img src="/template/images/customer/c19.png" alt="customer">
                     <img src="/template/images/customer/c20.png" alt="customer">

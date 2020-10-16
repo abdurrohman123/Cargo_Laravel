@@ -96,8 +96,8 @@
                         <li class="nav-item">
                             <a class="page-scroll nav-link" href="#page-top">HOME </a>
                         </li>
-                        <li class="nav-item ">
-                            <a class="page-scroll nav-link" href="#services">SERVICE</a>
+                        <li class="nav-item">
+                            <a class="page-scroll nav-link" href="#services">TRACKING SERVICE</a>
                         </li>
                         <li class="nav-item ">
                             <a class="page-scroll nav-link" href="#team">GALERI</a>
