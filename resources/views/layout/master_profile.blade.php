@@ -112,6 +112,16 @@
                         <li class="nav-item ">
                             <a class="page-scroll nav-link" href="{{ url('home') }}">HUBUNGI KAMI </a>
                         </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PENGIRIMAN</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="{{ url('darat') }}">PENGIRIMAN VIA DARAT</a>
+                                <a class="dropdown-item" href="{{ url('laut') }}">PENGIRIMAN VIA LAUT</a>
+                                <a class="dropdown-item" href="{{ url('container') }}">PENGIRIMAN VIA CONTAINER</a>
+                                {{-- <a class="dropdown-item" href="{{ url('legalitas') }}">LEGALITAS</a> --}}
+                            </div>
+                        </li>
                     </ul>
                 </div>
             </div>

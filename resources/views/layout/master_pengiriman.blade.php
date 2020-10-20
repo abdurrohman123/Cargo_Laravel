@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="/template/assets/owl-carousel/owl.theme.css">
 
 
+
 </head>
 
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
@@ -38,7 +39,7 @@
 
     <!--top bar start-->
 
-    <header class="header fixed-top">
+    <header class="headers fixed-top">
         <div class="top-bar w-100">
             <div class="container">
                 <div class="row">
@@ -86,32 +87,32 @@
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PROFILE</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="{{ url('latarbelakang') }}">LATAR BELAKANG</a>
-                                <a class="dropdown-item" href="{{ url('visi') }}">VISI</a>
-                                <a class="dropdown-item" href="{{ url('misi') }}">MISI</a>
-                                <a class="dropdown-item" href="{{ url('legalitas') }}">LEGALITAS</a>
+                                <a class="dropdown-item" href="latarbelakang">LATAR BELAKANG</a>
+                                <a class="dropdown-item" href="visi">VISI</a>
+                                <a class="dropdown-item" href="misi">MISI</a>
+                                <a class="dropdown-item" href="legalitas">LEGALITAS</a>
                             </div>
                         </li>
 
                         <li class="nav-item">
-                            <a class="page-scroll nav-link" href="#page-top">HOME </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="page-scroll nav-link" href="#services">TRACKING SERVICE</a>
+                            <a class="page-scroll nav-link" href="{{ url('home') }}">HOME </a>
                         </li>
                         <li class="nav-item ">
-                            <a class="page-scroll nav-link" href="#team">GALERI</a>
+                            <a class="page-scroll nav-link" href="{{ url('home') }}">SERVICE</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="page-scroll nav-link" href="#work">ARMADA</a>
+                            <a class="page-scroll nav-link" href="{{ url('home') }}">GALERI</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="page-scroll nav-link" href="#clients">CUSTOMER</a>
+                            <a class="page-scroll nav-link" href="{{ url('home') }}">ARMADA</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="page-scroll nav-link" href="#contact">HUBUNGI KAMI </a>
+                            <a class="page-scroll nav-link" href="{{ url('home') }}">CUSTOMER</a>
                         </li>
-                        <li class="nav-item dropdown">
+                        <li class="nav-item ">
+                            <a class="page-scroll nav-link" href="{{ url('home') }}">HUBUNGI KAMI </a>
+                        </li>
+                                <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PENGIRIMAN</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -128,40 +129,27 @@
         </nav>
     </header>
     <!--slider start-->
+<br>
+<br>
+<br>
+<br>
 
-    <section id="home" class="slider-banner home_over bg-parallax h-100" data-jarallax='{"speed": 0.2}'
-        style="background-image: url(/template/images/bg-5.jpg);">
-        <div class="main-slider ">
-            <!--slides end-->
-            <div class="slider-overlay">
-                <div class="slider-table">
-                    <div class="slider-vm">
-                        <!-- cd-intro -->
-                        <div class="cd-intro relative">
-                            <h1 class="cd-headline clip is-full-width">
-                                <span class="cd-words-wrapper">
-                                    <b class="is-visible">MANDIRI <span>  JAYA TRANS</span></b>
-                                    <b>Trucking <span> Ekspedisi </span></b>
-                                    <b>Pengiriman <span> Cepat Dan Tepat </span></b>
-                                </span>
-                            </h1>
-                            <p>Alamat : Kota Harapan Indah, Ruko Ifolia Blok HY.47 No.8 Kel.Pusaka Rakyat,
-                                Kec.Turumajaya, Kab.Bekasi, Jawa Barat.</p>
-                            <h6>Info Pelayanan</h6>
-                            <a href="https://api.whatsapp.com/send?phone=6282298589400" class="btn btn-lg btn-white-border">Klik Disini</a>
-                        </div>
-                        <!-- cd-intro -->
-                    </div>
-                </div>
+
+
+        <div class="row">
+            <div class="container">
+                <br>
+                <br>
+                @yield('abdurrohman_pengiriman')
+                <br>
+                <br>
             </div>
-            <!--slides overlay end-->
         </div>
-        <div class="mouse-down "><a href="#contact" class="page-scroll"><i class="ion-mouse"></i></a></div>
-    </section>
+
 
     <!-- content Section -->
 
-    @yield('abdurrohman_content')
+  
     <!-- Counter-section  -->
 
 
@@ -189,8 +177,6 @@
     <script src="/template/assets/owl-carousel/owl.carousel.js"></script>
     <!--custom js-->
     <script src="/template/js/custom.js"></script>
-
-
 
 
 </body>

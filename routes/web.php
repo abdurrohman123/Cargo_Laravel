@@ -1,7 +1,10 @@
 <?php
 
+use App\Http\Controllers\ContainerController;
+use App\Http\Controllers\DaratController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\LatarbelakangController;
+use App\Http\Controllers\LautController;
 use App\Http\Controllers\LegalitasController;
 use App\Http\Controllers\MisiController;
 use App\Http\Controllers\VisiController;
@@ -31,3 +34,8 @@ Route::get('latarbelakang', [LatarbelakangController::class, 'index']);
 Route::get('visi', [VisiController::class, 'index']);
 Route::get('misi', [MisiController::class, 'index']);
 Route::get('legalitas', [LegalitasController::class, 'index']);
+
+
+Route::get('darat', [DaratController::class, 'index']);
+Route::get('laut', [LautController::class, 'index']);
+Route::get('container', [ContainerController::class, 'index']);
