@@ -2,11 +2,11 @@
 @section('abdurrohman_pengiriman')
 
 <section class="entry">
-    <p style="text-align: justify;"><em>MANDIRI JAYA TRANS –</em>&nbsp; Adalah perusahaan jasa pengiriman<strong> Via
+    <p style="text-align: justify;"><em><strong> MANDIRI JAYA TRANS –</strong></em>&nbsp; Adalah perusahaan jasa pengiriman<strong> Via
             Laut</strong>&nbsp;tarif <strong>Murah</strong>&nbsp;dan&nbsp;<strong>Cepat</strong>&nbsp;yang selalu kami
         terapkan untuk semua&nbsp;<strong>pengiriman</strong> barang,&nbsp;melayani pengiriman barang partai kecil
         hingga besar via darat dan laut dengan sistem Kg, Kubikasi, Carter Truk atau Carter 1 Container.</p>
-    <p>Ekspedisi Via Darat</a></p>
+   
     <p style="text-align: justify;">Untuk tarif dan harga pengiriman <strong>Via Laut</strong>&nbsp;customer
         dapat menghubungi</strong></a>&nbsp;marketing
         kami, kami juga melayani jasa pickup barang (Door To Door) bagi customer yang sibuk ataupun tidak memiliki
@@ -75,8 +75,7 @@
             </strong></em></h4>
     <p style="text-align: justify;">Pembayaran bisa dengan Cash atau Transfer. Namun bagi customer yang sudah menjalin
         kerjasama sistem pembayaran menyesuaikan dengan perjanjian.</p>
-    <p><strong><em>Cek Juga Ya guyss…. : <a href="https://riskargo.com/pengiriman-via-darat/">Pengiriman Via Darat
-                </a></em></strong></p>
+  
 </section>
 
 

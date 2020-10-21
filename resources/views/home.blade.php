@@ -428,7 +428,7 @@
                 </div>
                 <div class="clearfix"></div>
             </div>
-
+            
             <div class="col-md-6 col-sm-6 ">
                 <div class="row">
 

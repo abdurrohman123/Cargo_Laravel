@@ -46,8 +46,9 @@
                     <div class="col-sm-6">
                         <ul class="list-inline list-unstyled">
                             <li class="list-inline-item"><a href="#" class="pl-0"><i class="ion-ios-telephone"></i>
-                                +6282298589400 </a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ion-ios-email"></i> mjt.kargoin@gmail.com</a>
+                                    +6282298589400 </a></li>
+                            <li class="list-inline-item"><a href="#"><i class="ion-ios-email"></i>
+                                    mjt.kargoin@gmail.com</a>
                             </li>
                         </ul>
                     </div>
@@ -87,18 +88,32 @@
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PROFILE</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="latarbelakang">LATAR BELAKANG</a>
-                                <a class="dropdown-item" href="visi">VISI</a>
-                                <a class="dropdown-item" href="misi">MISI</a>
-                                <a class="dropdown-item" href="legalitas">LEGALITAS</a>
+                                <a class="dropdown-item" href="{{ url('latarbelakang') }}">LATAR BELAKANG</a>
+                                <a class="dropdown-item" href="{{ url('visi') }}">VISI</a>
+                                <a class="dropdown-item" href="{{ url('misi') }}">MISI</a>
+                                <a class="dropdown-item" href="{{ url('legalitas') }}">LEGALITAS</a>
                             </div>
                         </li>
-
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SERVICE</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="{{ url('sumatera') }}">EKSPEDISI TUJUAN SUMATERA</a>
+                                    <a class="dropdown-item" href="{{ url('sulawesi') }}">EKSPEDISI TUJUAN SULAWESI</a>
+                                    <a class="dropdown-item" href="{{ url('riau') }}">EKSPEDISI TUJUAN KEPULAUAN RIAU</a>
+                                    <a class="dropdown-item" href="{{ url('medan_jakarta') }}">EKSPEDISI TUJUAN MEDAN KE JAKARTA</a>
+                                    <a class="dropdown-item" href="{{ url('jakarta_bandung') }}">EKSPEDISI TUJUAN JAKARTA KE BANDUNG</a>
+                                    <a class="dropdown-item" href="{{ url('bandung_sumatera') }}">EKSPEDISI TUJUAN BANDUNG KE SUMATERA</a>
+                                    <a class="dropdown-item" href="{{ url('bandung_sulawesi') }}">EKSPEDISI TUJUAN BANDUNG KE SULAWESI</a>
+                                    <a class="dropdown-item" href="{{ url('kalimantan') }}">EKSPEDISI TUJUAN BANDUNG KE KALIMANTAN</a>
+                                    <a class="dropdown-item" href="{{ url('jawa_bali') }}">EKSPEDISI TUJUAN JAWA KE BALI</a>
+                                </div>
+                        </li>
                         <li class="nav-item">
                             <a class="page-scroll nav-link" href="{{ url('home') }}">HOME </a>
                         </li>
                         <li class="nav-item ">
-                            <a class="page-scroll nav-link" href="{{ url('home') }}">SERVICE</a>
+                            <a class="page-scroll nav-link" href="{{ url('home') }}">TRACKING SERVICE</a>
                         </li>
                         <li class="nav-item ">
                             <a class="page-scroll nav-link" href="{{ url('home') }}">GALERI</a>
@@ -112,7 +127,8 @@
                         <li class="nav-item ">
                             <a class="page-scroll nav-link" href="{{ url('home') }}">HUBUNGI KAMI </a>
                         </li>
-                                <li class="nav-item dropdown">
+
+                        <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PENGIRIMAN</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -122,6 +138,8 @@
                                 {{-- <a class="dropdown-item" href="{{ url('legalitas') }}">LEGALITAS</a> --}}
                             </div>
                         </li>
+
+                     
                     </ul>
                 </div>
             </div>
@@ -129,27 +147,27 @@
         </nav>
     </header>
     <!--slider start-->
-<br>
-<br>
-<br>
-<br>
+    <br>
+    <br>
+    <br>
+    <br>
 
 
 
-        <div class="row">
-            <div class="container">
-                <br>
-                <br>
-                @yield('abdurrohman_pengiriman')
-                <br>
-                <br>
-            </div>
+    <div class="row">
+        <div class="container">
+            <br>
+            <br>
+            @yield('abdurrohman_pengiriman')
+            <br>
+            <br>
         </div>
+    </div>
 
 
     <!-- content Section -->
 
-  
+
     <!-- Counter-section  -->
 
 

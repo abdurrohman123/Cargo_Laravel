@@ -70,8 +70,6 @@
             </div>
             <!--container-->
         </div>
-        <!--top bar end-->
-
         <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse  header-transparent">
             <div class="container">
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
@@ -87,18 +85,32 @@
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PROFILE</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="latarbelakang">LATAR BELAKANG</a>
-                                <a class="dropdown-item" href="visi">VISI</a>
-                                <a class="dropdown-item" href="misi">MISI</a>
-                                <a class="dropdown-item" href="legalitas">LEGALITAS</a>
+                                <a class="dropdown-item" href="{{ url('latarbelakang') }}">LATAR BELAKANG</a>
+                                <a class="dropdown-item" href="{{ url('visi') }}">VISI</a>
+                                <a class="dropdown-item" href="{{ url('misi') }}">MISI</a>
+                                <a class="dropdown-item" href="{{ url('legalitas') }}">LEGALITAS</a>
                             </div>
                         </li>
-
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SERVICE</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="{{ url('sumatera') }}">EKSPEDISI TUJUAN SUMATERA</a>
+                                    <a class="dropdown-item" href="{{ url('sulawesi') }}">EKSPEDISI TUJUAN SULAWESI</a>
+                                    <a class="dropdown-item" href="{{ url('riau') }}">EKSPEDISI TUJUAN KEPULAUAN RIAU</a>
+                                    <a class="dropdown-item" href="{{ url('medan_jakarta') }}">EKSPEDISI TUJUAN MEDAN KE JAKARTA</a>
+                                    <a class="dropdown-item" href="{{ url('jakarta_bandung') }}">EKSPEDISI TUJUAN JAKARTA KE BANDUNG</a>
+                                    <a class="dropdown-item" href="{{ url('bandung_sumatera') }}">EKSPEDISI TUJUAN BANDUNG KE SUMATERA</a>
+                                    <a class="dropdown-item" href="{{ url('bandung_sulawesi') }}">EKSPEDISI TUJUAN BANDUNG KE SULAWESI</a>
+                                    <a class="dropdown-item" href="{{ url('kalimantan') }}">EKSPEDISI TUJUAN BANDUNG KE KALIMANTAN</a>
+                                    <a class="dropdown-item" href="{{ url('jawa_bali') }}">EKSPEDISI TUJUAN JAWA KE BALI</a>
+                                </div>
+                        </li>
                         <li class="nav-item">
                             <a class="page-scroll nav-link" href="{{ url('home') }}">HOME </a>
                         </li>
                         <li class="nav-item ">
-                            <a class="page-scroll nav-link" href="{{ url('home') }}">SERVICE</a>
+                            <a class="page-scroll nav-link" href="{{ url('home') }}">TRACKING SERVICE</a>
                         </li>
                         <li class="nav-item ">
                             <a class="page-scroll nav-link" href="{{ url('home') }}">GALERI</a>
@@ -112,6 +124,7 @@
                         <li class="nav-item ">
                             <a class="page-scroll nav-link" href="{{ url('home') }}">HUBUNGI KAMI </a>
                         </li>
+
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PENGIRIMAN</a>
@@ -122,6 +135,8 @@
                                 {{-- <a class="dropdown-item" href="{{ url('legalitas') }}">LEGALITAS</a> --}}
                             </div>
                         </li>
+
+                     
                     </ul>
                 </div>
             </div>

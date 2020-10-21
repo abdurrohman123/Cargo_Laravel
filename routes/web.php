@@ -7,6 +7,7 @@ use App\Http\Controllers\LatarbelakangController;
 use App\Http\Controllers\LautController;
 use App\Http\Controllers\LegalitasController;
 use App\Http\Controllers\MisiController;
+use App\Http\Controllers\ServiceController;
 use App\Http\Controllers\VisiController;
 use Illuminate\Support\Facades\Route;
 
@@ -39,3 +40,14 @@ Route::get('legalitas', [LegalitasController::class, 'index']);
 Route::get('darat', [DaratController::class, 'index']);
 Route::get('laut', [LautController::class, 'index']);
 Route::get('container', [ContainerController::class, 'index']);
+
+
+Route::get('sumatera', [ServiceController::class, 'sumatera']);
+Route::get('sulawesi', [ServiceController::class, 'sulawesi']);
+Route::get('riau', [ServiceController::class, 'riau']);
+Route::get('medan_jakarta', [ServiceController::class, 'medan_jakarta']);
+Route::get('kalimantan', [ServiceController::class, 'kalimantan']);
+Route::get('jawa_bali', [ServiceController::class, 'jawa_bali']);
+Route::get('jakarta_bandung', [ServiceController::class, 'jakarta_bandung']);
+Route::get('bandung_sumatera', [ServiceController::class, 'bandung_sumatera']);
+Route::get('bandung_sulawesi', [ServiceController::class, 'bandung_sulawesi']);

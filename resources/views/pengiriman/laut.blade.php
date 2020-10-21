@@ -3,7 +3,7 @@
 
 
 <section class="entry">
-    <p style="text-align: justify;"><em>MANDIRI JAYA TRANS –</em>&nbsp; Adalah perusahaan jasa pengiriman<strong> Via
+    <p style="text-align: justify;"><em><strong> MANDIRI JAYA TRANS – </strong></em>&nbsp; Adalah perusahaan jasa pengiriman<strong> Via
             Laut</strong>&nbsp;tarif <strong>Murah</strong>&nbsp;dan&nbsp;<strong>Cepat</strong>&nbsp;yang selalu kami
         terapkan untuk semua&nbsp;<strong>pengiriman</strong> barang,&nbsp;melayani pengiriman barang partai kecil
         hingga besar via darat dan laut dengan sistem Kg, Kubikasi, Carter Truk atau Carter 1 Container.</p>
