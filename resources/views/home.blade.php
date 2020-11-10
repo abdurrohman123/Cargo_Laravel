@@ -421,7 +421,7 @@
                             <br>mjt.kargoin@gmail.com</p>
                     </div>
                     <div class="col-md-12 contact   "> <i class="fa fa-phone fa-2x"></i>
-                        <p class="dark">+6282298589400
+                        <p class="dark">+6287875676614
                         <br>
                         +6287875676614</p>
                     </div>
@@ -434,7 +434,7 @@
 
                     <div class="col-md-12 contact ">
                         <P style="text-align: center;"><strong>Layanan CS-1</strong><br>
-                            <a href="https://api.whatsapp.com/send?phone=6282298589400">
+                            <a href="https://api.whatsapp.com/send?phone=6287875676614">
                                 <img src="/template/images/WA.png">
                             </a>
 

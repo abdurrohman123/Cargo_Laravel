@@ -45,7 +45,7 @@
                     <div class="col-sm-6">
                         <ul class="list-inline list-unstyled">
                             <li class="list-inline-item"><a href="#" class="pl-0"><i class="ion-ios-telephone"></i>
-                                +6282298589400 </a></li>
+                                +6287875676614 </a></li>
                             <li class="list-inline-item"><a href="#"><i class="ion-ios-email"></i> mjt.kargoin@gmail.com</a>
                             </li>
                         </ul>
@@ -167,7 +167,7 @@
                             <p>Alamat : Kota Harapan Indah, Ruko Ifolia Blok HY.47 No.8 Kel.Pusaka Rakyat,
                                 Kec.Turumajaya, Kab.Bekasi, Jawa Barat.</p>
                             <h6>Info Pelayanan</h6>
-                            <a href="https://api.whatsapp.com/send?phone=6282298589400" class="btn btn-lg btn-white-border">Klik Disini</a>
+                            <a href="https://api.whatsapp.com/send?phone=6287875676614" class="btn btn-lg btn-white-border">Klik Disini</a>
                         </div>
                         <!-- cd-intro -->
                     </div>

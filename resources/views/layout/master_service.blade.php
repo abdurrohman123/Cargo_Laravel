@@ -46,7 +46,7 @@
                     <div class="col-sm-6">
                         <ul class="list-inline list-unstyled">
                             <li class="list-inline-item"><a href="#" class="pl-0"><i class="ion-ios-telephone"></i>
-                                +6282298589400 </a></li>
+                                +6287875676614 </a></li>
                             <li class="list-inline-item"><a href="#"><i class="ion-ios-email"></i> mjt.kargoin@gmail.com</a>
                             </li>
                         </ul>
